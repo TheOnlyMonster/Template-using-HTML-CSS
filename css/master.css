@@ -1429,7 +1429,7 @@ a{
 .discount .section-left{
     color: white;
     position: relative;
-    background-image: url(../../CSS_Third_Project/images/discount-background1.jpg);
+    background-image: url(../images/discount-background1.jpg);
     animation: discount-animation 5s infinite both alternate;
     -webkit-animation: discount-animation 5s infinite both alternate;
 }
@@ -1448,7 +1448,7 @@ a{
 }
 @keyframes discount-animation {
     to{
-        background-image: url(../../CSS_Third_Project/images/discount-background2.jpg);
+        background-image: url(../images/discount-background2.jpg)
     }
 }
 .discount img{
